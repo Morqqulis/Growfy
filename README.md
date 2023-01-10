@@ -1,6 +1,6 @@
 # Growfy
 
-https://morqqulis.github.io/Growly/
+https://morqqulis.github.io/Growfy/
 
 Growfy Lapnding page
 
