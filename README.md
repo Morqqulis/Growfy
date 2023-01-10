@@ -2,6 +2,6 @@
 
 https://morqqulis.github.io/Growly/
 
-Growly Lapnding page
+Growfy Lapnding page
 
 
